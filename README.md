@@ -31,21 +31,6 @@ This project focuses on creating impactful **Sales and Finance Reports** to help
 2. **Market Performance vs Target**  
    Visualize actual sales performance compared to predefined market targets.
 
-3. **Top 10 Products (2020 & 2021)**  
-   Identify best-selling products and analyze yearly performance trends.
-
-4. **Division Level Report**  
-   Sales performance segmented by business division.
-
-5. **Top 5 and Bottom 5 Products**  
-   Comparative insights into high and low-performing SKUs.
-
-6. **New Products - 2021**  
-   Analyze the success and impact of newly launched products in 2021.
-
-7. **Top 5 Countries - 2021**  
-   Country-wise sales performance highlighting top markets.
-
 ### 🔹 Finance Reports
 
 1. **Profit & Loss by Fiscal Year**  
@@ -57,8 +42,6 @@ This project focuses on creating impactful **Sales and Finance Reports** to help
 3. **P&L by Market**  
    Market-wise profitability breakdown.
 
-4. **Gross Margin % by Quarters**  
-   Quarterly profitability metrics and margin trends.
 
 ---
 
